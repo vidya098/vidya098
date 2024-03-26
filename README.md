@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'am VIDYASHREE </h1>
 <br>
-<h2 align="centre"> IT'S ALWAYS SEEMS IMPOSSIBLE UNTILE ITS DONE!</h2>
+<h2 align="center"> IT'S ALWAYS SEEMS IMPOSSIBLE UNTILE ITS DONE!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya098&label=Profile%20views&color=0e75b6&style=flat" alt="vidya098" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidya098" alt="vidya098" /></a> </p>
